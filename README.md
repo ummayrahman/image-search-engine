@@ -9,7 +9,7 @@ This project is an Image Search Engine that allows users to search for images ba
 - Click on images to view them in full size on Unsplash
 - Load more images with a "Show More" button
 
-- ## Technologies Used
+## Technologies Used
 
 - **Frontend**: HTML, CSS, JavaScript
 - **API**: Unsplash API
