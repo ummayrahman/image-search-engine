@@ -14,4 +14,4 @@ This project is an Image Search Engine that allows users to search for images ba
 - **Frontend**: HTML, CSS, JavaScript
 - **API**: Unsplash API
 
-## [Demo](https://grand-alpaca-4230e9.netlify.app)
+[Demo](https://grand-alpaca-4230e9.netlify.app/)
